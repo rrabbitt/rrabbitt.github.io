@@ -1,6 +1,6 @@
 ---
 title: Welcome!
-description: Test Description
+description: First GitHub Page
 ---
 
 This is content I've developed for my courses:
