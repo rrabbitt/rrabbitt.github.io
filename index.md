@@ -3,7 +3,7 @@ title: Welcome!
 description: First GitHub Page
 ---
 ## Let me introduce myself
-Hello, I'm Rachel a newbie over in the CMBA class within W&M's MSBA program. Below is my profile pic I have chosen for GitHub where I hope to fully embody my last name, Rabbitt.
+Hello, I'm Rachel a newbie over in the CTBA class within W&M's MSBA program. Below is my profile pic I have chosen for GitHub where I hope to fully embody my last name, Rabbitt.
 ![My Picture](/pics/rabbit.png)
 
 This is content I've developed for my courses:
